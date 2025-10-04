@@ -1,10 +1,4 @@
-streamlit
-yfinance
-pandas
-numpy
-ta
-matplotlib
----
+
 
 ## 🧠 About
 
